@@ -56,7 +56,7 @@ class ComputationTest {
         Operations.divide(x, y)
     }
 
-    @BeforeClass
+    /*@BeforeClass
     fun initialConnection() {
         Log.i("startup i.e - ", "creating DB connection")
     }
@@ -64,6 +64,6 @@ class ComputationTest {
     @AfterClass
     fun tearDown() {
         Log.i("closing i.e - ","DB connection")
-    }
+    }*/
 
 }
