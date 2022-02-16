@@ -31,6 +31,8 @@ class MainActivityInstrumentationTest {
         /*onView(withText("Hello!"))
             .perform(typeText("Hello!"),click())
             .check(matches(withText("Hello!")))*/
+
+        // We can check view in Recyclerview Adapter also!
     }
 
     /*@Test
